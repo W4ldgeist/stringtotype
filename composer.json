@@ -2,7 +2,7 @@
     "name": "anderswelt/stringtotype",
     "description": "A php service to convert string content to its inherent type",
     "type": "service",
-    "license": "GPL 3.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Johannes Rebhan",

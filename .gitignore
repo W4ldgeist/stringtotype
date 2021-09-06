@@ -1,0 +1,8 @@
+*.db
+.DS_STORE
+.DS_Store
+/.idea/*
+.editorconfig
+Changelog
+
+/vendor/
